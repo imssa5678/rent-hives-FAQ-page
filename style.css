@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+}
+:root{
+
+    --primary-color:#ff901d;
+    --soft-color:#fedddd;
+    --white-color:#f5f5f5;
+    --black-color:#222;
+}
+body{
+    width:100%;
+    height:auto;
+    padding-top: 7%;
+    background-color: var(--soft-color);
+}
+.accordian-header{
+   background-color: #ff901d;
+   color: #f5f5f5;
+}
